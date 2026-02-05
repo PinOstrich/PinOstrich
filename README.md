@@ -1,4 +1,4 @@
-## Hey there, I'm Aris. Your local Owl fan
+## Hey there, I'm Aris and I like Owls a lot 
 
 ```Javascript
 let me = Student {
