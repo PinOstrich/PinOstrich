@@ -4,7 +4,7 @@
 let me = Student {
   "Name": "Aristidis Akritidis",
   "Age": 21,
-  "Hobbies": ["Reading", "Gaming", "DnD", "Warhammer"],
+  "Hobbies": ["DnD", "Warhammer", "Coding various things"],
   "Languages": ["English", "German", "Greek", "Norwegian"],
   "Favorite food": "Okonomiyaki",
   "University": "University of Agder",
